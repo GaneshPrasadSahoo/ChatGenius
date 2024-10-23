@@ -1,0 +1,8 @@
+python-dotenv==1.0.1
+google-generativeai==0.3.2
+streamlit==1.30.0
+streamlit==1.19.0
+python-dotenv==1.0.0
+google-generativeai==0.0.1  # Use the appropriate version based on the latest
+SpeechRecognition==3.8.1
+pyttsx3==2.10
